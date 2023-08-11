@@ -7,7 +7,6 @@ Task One: Exploratory Data Analysis
 
 •	Analysed sales data via Python.
 
-•	Wrote an email to my Data Science team leader outlining my findings.
 
 
 Task Two: Data Modelling
